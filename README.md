@@ -83,3 +83,5 @@ tree
 ├── .gitignore                        # 忽略 .env / *.key 等密钥文件
 └── .github/workflows/pages.yml       # GitHub Actions 自动部署
 ```
+
+https://njxne.github.io/myweb/
